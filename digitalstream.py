@@ -4,6 +4,8 @@ A screensaver in the style of the Matrix movie's visuals.
 Tags: tiny, artistic, beginner, scrolling
 """
 
+# Just seeing how the code editor in GitHub works
+
 import random, shutil, sys, time
 
 # Set up the constants:
